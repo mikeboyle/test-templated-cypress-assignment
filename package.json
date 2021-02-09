@@ -1,0 +1,17 @@
+{
+  "name": "cypress-assignment-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.1.0",
+    "fast-glob": "^3.2.5",
+    "junit-report-merger": "^2.1.0",
+    "junitxml-to-javascript": "^1.1.4"
+  }
+}
